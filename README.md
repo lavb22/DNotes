@@ -1,4 +1,4 @@
 DNOTES (NOTE)
 
-rpc port: 11223
-net port: 11224
+rpc port: 11224
+net port: 11223
